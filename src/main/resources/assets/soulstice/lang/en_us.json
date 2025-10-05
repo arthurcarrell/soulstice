@@ -1,0 +1,18 @@
+{
+  "item.soulstice.soulcleave": "Soulcleave",
+  "item.soulstice.soulsparker": "Soulsparker",
+  "item.soulstice.soul": "Soul",
+
+  "tooltip.soulstice.soulcleave.info": "Can gather Souls from killed mobs.",
+  "tooltip.soulstice.soul.no_mob": "No Entity",
+
+  "death.attack.soulsparker_fire": "%s was charred with soul-fire by %s",
+  "death.attack.soulsparker_fire.item": "%s was charred with soul-fire by %s using %s",
+
+  "tooltip.soulstice.soulsparker.no_soul": "Place soul into Soulsparker.",
+  "tooltip.soulstice.soulsparker.undead": "Applies poison to mobs hit.",
+  "tooltip.soulstice.soulsparker.fire": "Burns mobs for much longer.",
+  "tooltip.soulstice.soulsparker.heal": "Flames now heal mobs instead.",
+  "tooltip.soulstice.soulsparker.wither": "Applies wither to mobs hit.",
+  "tooltip.soulstice.soulsparker.slow": "Applies slowness to mobs hit."
+}

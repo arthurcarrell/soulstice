@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.asteristired.soulstice.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "LivingEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
